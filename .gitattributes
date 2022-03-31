@@ -1,2 +1,7 @@
+#These files are considered documentation by Linguist because they're in the app/ folder. You can use the following.
+
+#make a file name called .gitattributes this file will override that behavior and paste the following in that file.
+
+
 app/* linguist-documentation=false
 app/* linguist-vendored
